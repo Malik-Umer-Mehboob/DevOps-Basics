@@ -1,3 +1,0 @@
-<h2>Git and Github</h2>
-
-
